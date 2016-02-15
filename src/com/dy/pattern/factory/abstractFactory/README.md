@@ -7,13 +7,17 @@
 `HNBoy`和`MCBoy`实现了Boy接口，实现了`drawBoy`的方法
 
 --Boy
+
 ----HNBoy
+
 ----MCBoy
 
 `HNGirl`和`MCGirl`实现了Girl接口，实现了`drawGirl`的方法
 
 --Girl
+
 ----HNGirl
+
 ----MCGirl
 
 ### 工厂的实现
